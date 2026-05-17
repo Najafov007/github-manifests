@@ -8,7 +8,7 @@ spec:
     spec:
       containers:
         - name: api-gateway
-          image: pifaqorik/gh-python:test-999a27e
+          image: pifaqorik/api-gateway:test-6a0f358
           resources:
             requests:
               cpu: 100m
